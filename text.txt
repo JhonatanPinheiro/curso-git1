@@ -1,7 +1,11 @@
 Olá mundo
+<<<<<<< HEAD
 a
 b
 c
 d
 E
 G
+=======
+Eu sou uma parte do branch
+>>>>>>> master
